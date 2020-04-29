@@ -1,6 +1,7 @@
-# Assignment: Writing a Compose File
 
-> Goal: Create a compose config for a local Drupal CMS website
+#Creating a project on docker...in which i provide Infrastruture as Code(IaC)..
+
+ #Goal: Create a compose config for a local Drupal CMS website
 
 - This empty directory is where you should create a docker-compose.yml 
 - Use the `drupal:8.8.2` image along with the `postgres:12.1` image
